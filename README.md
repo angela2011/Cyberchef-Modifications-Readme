@@ -21,9 +21,13 @@ CyberChef is commonly used by:
 - Penetration testers
 - Anybody interested in learning cryptography or data processing
 
+- <img width="1440" height="783" alt="recipe" src="https://github.com/user-attachments/assets/5f59d18c-06a9-4205-b050-6b452bab8fbd" />
+- <img width="1440" height="900" alt="reversing" src="https://github.com/user-attachments/assets/944c4683-3cf2-423d-b9b0-a20fd09c958d" />
+
 ---
 
 ## 2. Repository Structure
+
 
 The repository is organized into several important folders:
 

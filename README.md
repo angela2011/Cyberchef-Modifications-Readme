@@ -21,7 +21,9 @@ CyberChef is commonly used by:
 - Penetration testers
 - Anybody interested in learning cryptography or data processing
 
+- Example instance:
 - <img width="1440" height="783" alt="recipe" src="https://github.com/user-attachments/assets/5f59d18c-06a9-4205-b050-6b452bab8fbd" />
+- The magic wand gives automatic suggestions what the recipe possible could be to get the original string back as seen in the picture
 - <img width="1440" height="900" alt="reversing" src="https://github.com/user-attachments/assets/944c4683-3cf2-423d-b9b0-a20fd09c958d" />
 
 ---
@@ -58,6 +60,8 @@ The repository is organized into several important folders:
 ### `node_modules/` (generated)
 - Stores project dependencies installed via npm.
 - Not usually part of the repository but created during setup.
+
+- (A more detailed study on the file structure and codes contained will be done in the following 2 days.)
 
 ---
 
@@ -96,7 +100,10 @@ Type of change: UI/UX improvement for bettr error handling
 
 Focus: Making CyberChef more user-friendly by improving error handling by providing clearer messages when a numerical input is left empty.
 
+<img width="915" height="447" alt="contributions" src="https://github.com/user-attachments/assets/60a085bc-ce98-4386-841f-7afde88d530f" />
+
 - Apart from that there are 209 other contributers regularly making improvements which highights it is an active project and is being worked on continuosly.
+  
 ### Issues
 - Issues are used to:
   - Report bugs

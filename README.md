@@ -127,7 +127,7 @@ Maintainers review PRs before merging them into the main branch.
 
 I was initially drawn to this repository because it is developed by a government organization (GCHQ), which immediately caught my attention. The description of CyberChef as a “Cyber Swiss Army Knife” made me curious, and I wanted to explore what kind of capabilities such a tool could offer.
 
-I am generally interested in exploring government-developed websites and understanding their security aspects, as many such platforms can have vulnerabilities. What surprised me the most about CyberChef was that, despite being developed by a government agency, it is open source and publicly accessible. This combination of transparency and security focus made it even more interesting to explore.
+I like exploring government-developed websites in general and understanding their security aspects, as many such platforms are known to have vulnerabilities. What surprised me the most about CyberChef was that, despite being developed by a government agency, it is open source and publicly accessible. This combination of transparency and security focus made it even more interesting to explore.
 
 A few months ago, I conducted a workshop where I explained phishing attacks and how malicious actors can deceive users. During that time, I came across CyberChef for the first time and used it as a demonstration tool. So for the workshop, I created two visually similar URLs:
 

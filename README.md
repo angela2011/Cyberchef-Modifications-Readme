@@ -137,4 +137,4 @@ At first glance, both links appear identical, but they actually differ by a sing
 
 By using CyberChef operations such as converting the input into hexadecimal, binary, or ASCII representations, I was able to demonstrate the difference between the two URLs. Although CyberChef cannot directly determine which link is legitimate, it helps reveal the underlying character differences, allowing users to analyze suspicious inputs more effectively.
 
-Something I thought of while exploring the tool is the possibility of adding a feature that could analyze URLs in real time and flag potentially malicious ones by detecting visually similar characters or unusual patterns in their encoding. This could maybe enhance CyberChef’s usefulness in phishing detection. I would love to maybe contribute on something like this.
+Something I thought of while exploring the tool is the possibility of adding a feature that could analyze URLs in real time and flag potentially malicious ones by detecting visually similar characters or unusual patterns in their encoding. This could maybe enhance CyberChef’s usefulness in phishing detection. I would love to contribute on something like this.

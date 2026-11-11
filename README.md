@@ -40,7 +40,7 @@ The repository is organized into several important folders:
 
 ### `docs/`
 - Holds documentation related to the project.
-- May include guides, architecture explanations, or usage instructions.
+- Includes guides, architecture explanations, and usage instructions.
 
 ### `test/`
 - Contains test cases for verifying functionality.
@@ -61,9 +61,8 @@ The repository is organized into several important folders:
 - Stores project dependencies installed via npm.
 - Not usually part of the repository but created during setup.
 
-- (A more detailed study on the file structure and codes contained will be done in the following 2 days.)
+- 
 
----
 
 ## 3. Technologies Used
 
